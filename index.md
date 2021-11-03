@@ -2,7 +2,7 @@
 A Simple ML Application
 ---
 
-[Link to another page](./another-page.html).
+[Link to Researchgate page](https://www.researchgate.net/publication/354535644_Prediction_of_medical_students'_performance_in_summative_assessment_using_machine_learning_algorithms).
 
 This is a Conferenece paper presented in MEDUCON 2021 - JIPMER
 
